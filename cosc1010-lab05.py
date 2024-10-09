@@ -1,12 +1,8 @@
-# Your Name Here
+# Caleb Behrman
 # UWYO COSC 1010
-# Submission Date
+# 10/9/24
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 15
 
 max_temps = [
     32, 24, 22, 25, 37, 33, 34, 40, 40, 42,
